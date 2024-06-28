@@ -53,10 +53,6 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
