@@ -15,21 +15,23 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+###
+
+<h1 align="center">Hola Developers 👋</h1>
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h3 align="left">👩‍💻  Sobre mi</h3>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<p align="left">
+  Hola, soy Kevin, tengo 20 años y me apasiona el desarrollo web, el diseño gráfico y la edición de videos. Me encanta crear experiencias visuales y funcionales en el mundo digital.<br><br>
+  - 🔭 Estoy trabajando en proyectos personales para aprender cosas nuevas y mejorar mis conocimientos.<br>
+  - 📚 Actualmente estoy aprendiendo React y Spring Boot para mejorar mis habilidades.<br>
+  - ⚡ En mi tiempo libre, hago deporte, leo, aprendo nuevos idiomas y juego con mi gato.
+</p>
 
-###
-
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
 ###
 
