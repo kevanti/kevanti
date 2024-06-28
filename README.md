@@ -1,51 +1,68 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <header>
-    <h1>¡Hey, soy Kevin!</h1>
-    <p>Soy un apasionado del desarrollo web y me dedico a especializarme en este campo &#128516;</p>
-  </header>
+<div align="center">
+  <img height="150" src="./img/banner.png"  />
+</div>
 
-  <section>
-    <h2>Sobre mí</h2>
-    <ul>
-      <li><strong>🔭 Actualmente estoy aprendiendo:</strong> HTML, CSS y JavaScript.</li>
-      <li><strong>🌱 Intereses:</strong> Diseño de interfaces y creación de experiencias de usuario intuitivas.</li>
-      <li><strong>👯 Busco colaborar en:</strong> Proyectos frontend interesantes y desafiantes.</li>
-      <li><strong>💬 Puedes preguntarme sobre:</strong> HTML, CSS, JavaScript o cualquier cosa relacionada con el desarrollo frontend.</li>
-      <li><strong>📫 Cómo contactarme:</strong> <a href="kevin1alvarez1.69@gmail.com">kevin1alvarez1.69@gmail.com</a></li>
-    </ul>
-  </section>
+###
 
-  <section>
-    <h2>Proyectos destacados</h2>
-    <ul>
-      <li><a href="https://daw.bienvenidosaez.es/alumnos/kevin/html/index.html">Proyecto 1</a> Mi primera página web</li>
-    </ul>
-  </section>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="Instagram">
 
-  <section>
-    <h2>Habilidades</h2>
-    <ul>
-      <li>HTML</li>
-      <li>CSS</li>
-      <li>JavaScript</li>
-    </ul>
-  </section>
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
 
-  <section>
-    <h2>Contribuciones</h2>
-    <ul>
-      <li><a href="https://github.com/kevanti">Perfil de GitHub</a></li>
-      <li><a href="https://twitter.com/?lang=es">Twitter</a></li>
-      <li><a href="https://es.linkedin.com">LinkedIn</a></li>
-    </ul>
-  </section>
-</body>
-</html>
+###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
+
+###
+
+<h1 align="center">hey there 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
