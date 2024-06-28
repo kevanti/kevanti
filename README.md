@@ -27,9 +27,9 @@
 
 <p align="left">
   Hola, soy Kevin, tengo 20 años y me apasiona el desarrollo web, el diseño gráfico y la edición de videos. Me encanta crear experiencias visuales y funcionales en el mundo digital.<br><br>
-  - 🔭 Estoy trabajando en proyectos personales para aprender cosas nuevas y mejorar mis conocimientos.<br>
-  - 📚 Actualmente estoy aprendiendo React y Spring Boot para mejorar mis habilidades.<br>
-  - ⚡ En mi tiempo libre, hago deporte, leo, aprendo nuevos idiomas y juego con mi gato.
+  - 🔭 Actualmente, estoy desarrollando proyectos personales para adquirir nuevos conocimientos y mejorar mis habilidades.<br>
+  - 📚 Me encuentro aprendiendo React y Spring Boot para ampliar mi experiencia.<br>
+  - ⚡ En mi tiempo libre, disfruto haciendo deporte, leyendo, aprendiendo nuevos idiomas y jugando con mi gato.
 </p>
 
 
