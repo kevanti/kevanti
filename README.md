@@ -9,7 +9,7 @@
 
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
 
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=%3Ckevanti%2F%3E&logo=instagram&label=&color=808080&logoColor=white&labelColor=&style=for-the-badge" alt="<kevanti/>">
 </div>
 
 ###
