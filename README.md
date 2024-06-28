@@ -29,7 +29,7 @@
   Hola, soy Kevin, tengo 20 años y me apasiona el desarrollo web, el diseño gráfico y la edición de videos. Me encanta crear experiencias visuales y funcionales en el mundo digital.<br><br>
   - 🔭 Actualmente, estoy desarrollando proyectos personales para adquirir nuevos conocimientos y mejorar mis habilidades.<br>
   - 📚 Me encuentro aprendiendo React y Spring Boot para ampliar mi experiencia.<br>
-  - ⚡ En mi tiempo libre, disfruto haciendo deporte, leyendo, aprendiendo nuevos idiomas y jugando con mi gato.
+  - ⚡ En mi tiempo libre, disfruto haciendo deporte y leyendo, además de mejorar mi nivel de inglés y aprender un poco de francés.
 </p>
 
 
@@ -40,23 +40,15 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img src="https://img.shields.io/badge/HTML-DD4B25?style=for-the-badge&logo=html5&logoColor=white" alt="HTML badge" height="25" />
+  <img src="https://img.shields.io/badge/CSS-254BDD?style=for-the-badge&logo=css3&logoColor=white" alt="CSS badge" height="25" />
+  <img src="https://img.shields.io/badge/SASS-C66394?style=for-the-badge&logo=sass&logoColor=white" alt="SASS badge" height="25" />
+  <img src="https://img.shields.io/badge/JavaScript-EFD81D?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript badge" height="25" />
+  <img src="https://img.shields.io/badge/Java-2675B3?style=for-the-badge&logo=java&logoColor=white" alt="Java badge" height="25" />
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot badge" height="25" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP badge" height="25" />
+  <img src="https://img.shields.io/badge/React-1399C4?style=for-the-badge&logo=react&logoColor=white" alt="React badge" height="25" />
+
 </div>
 
 ###
