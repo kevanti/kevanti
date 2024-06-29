@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<a href="www.linkedin.com/in/kevin-álvarez-antiveros-595096317">
+<a href="https://www.linkedin.com/in/kevin-%C3%A1lvarez-antiveros-595096317/">
 <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
 </a>
 
