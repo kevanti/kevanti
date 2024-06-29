@@ -5,7 +5,10 @@
 ###
 
 <div align="center">
+
+<a href="www.linkedin.com/in/kevin-álvarez-antiveros-595096317">
 <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+</a>
 
 
 <a href="https://www.instagram.com/kevinxt03?igsh=YWE4aHZ5cm90dWky">
@@ -13,7 +16,12 @@
 </a>
 
 
-  <img src="https://img.shields.io/static/v1?message=%3Ckevanti%2F%3E&&logo=&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+<a href="https://kevanti.github.io/kevin-github-pages/">
+<img src="https://img.shields.io/static/v1?message=%3Ckevanti%2F%3E&&logo=&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+</a>
+
+
+  
 </div>
 
 ###
